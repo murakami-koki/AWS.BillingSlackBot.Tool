@@ -1,2 +1,2 @@
-# AWS.GetBillingInfo.Tool
-AWS Organizations管理下のAWS料金をSlackに投稿するツール
+# AWSの利用料をSlackチャンネルに通知するためのツール
+
