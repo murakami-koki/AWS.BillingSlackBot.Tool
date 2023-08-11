@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-cost-explorer": "^3.385.0",
+    "@types/node": "^20.4.8",
+    "axios": "^1.4.0",
+    "date-fns": "^2.30.0",
+    "date-fns-tz": "^2.0.0",
+    "typescript": "^5.1.6"
+  }
+}
