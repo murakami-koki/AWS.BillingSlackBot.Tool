@@ -1,1 +1,5 @@
+# node module
 node_modules/
+
+# JSファイルはGitで管理しない
+*.js
